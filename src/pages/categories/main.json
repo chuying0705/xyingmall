@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "usingComponents": {
+    "i-icon": "../../../static/iView/dist/icon/index"
+  }
+}

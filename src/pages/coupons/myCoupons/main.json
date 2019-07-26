@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的优惠券",
+  "usingComponents": {
+    "i-tabs": "../../../../../static/iView/dist/tabs/index",
+    "i-tab": "../../../../../static/iView/dist/tab/index",
+    "i-row": "../../../../../static/iView/dist/row/index",
+    "i-col": "../../../../../static/iView/dist/col/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "优惠券领取中心",
+  "usingComponents": {
+    "i-row": "../../../../../static/iView/dist/row/index",
+    "i-col": "../../../../../static/iView/dist/col/index"
+  }
+}

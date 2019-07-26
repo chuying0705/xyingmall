@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/categories/main",
+    "pages/cart/main",
+    "pages/user/main",
+
+    "pages/goodDetail/main",
+    "pages/purchase/main",
+
+
+    "pages/orders/orderList/main",
+    "pages/orders/orderDetail/main",
+    "pages/address/addressList/main",
+    "pages/address/addAddress/main",
+    "pages/address/editAddress/main",
+    "pages/coupons/couponMarket/main",
+    "pages/coupons/myCoupons/main",
+    "pages/about/main"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#E60026",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "text": "首页",
+        "iconPath": "/static/icon/home.png",
+        "selectedIconPath": "/static/icon/home_selected.png"
+      }, {
+        "pagePath": "pages/categories/main",
+        "text": "分类",
+        "iconPath": "/static/icon/category.png",
+        "selectedIconPath": "/static/icon/category_selected.png"
+      },
+      {
+        "pagePath": "pages/cart/main",
+        "text": "购物车",
+        "iconPath": "/static/icon/cart.png",
+        "selectedIconPath": "/static/icon/cart_selected.png"
+      }, {
+        "pagePath": "pages/user/main",
+        "text": "我的",
+        "iconPath": "/static/icon/my.png",
+        "selectedIconPath": "/static/icon/my_selected.png"
+      }
+    ],
+    "selectedColor":"#E60026"
+  }
+}

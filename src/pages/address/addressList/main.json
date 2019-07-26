@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "usingComponents": {
+    "i-cell-group": "../../../../static/iView/dist/cell-group/index",
+    "i-cell": "../../../../static/iView/dist/cell/index",
+    "i-button": "../../../../static/iView/dist/button/index",
+    "i-row": "../../../../static/iView/dist/row/index",
+    "i-col": "../../../../static/iView/dist/col/index",
+    "i-input-number": "../../../../static/iView/dist/input-number/index",
+    "i-icon": "../../../../static/iView/dist/icon/index",
+    "i-checkbox-group": "../../../../static/iView/dist/checkbox-group/index",
+    "i-checkbox": "../../../../static/iView/dist/checkbox/index",
+    "i-radio": "../../../../static/iView/dist/radio/index"
+}
+}
