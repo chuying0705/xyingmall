@@ -6,7 +6,7 @@
           <div class="bottom-box">
             <div class="good-title">{{good.title}}</div>
             <div class="good-price">
-              ￥<span class="price">{{good.price / good.originPrice}}</span>
+              ￥<span class="price">{{good.price}}</span>
               <span class="oriPrice">{{good.originPrice}}</span>
               <i-icon class="icon" type="publishgoods_fill" size="24" color="#E60026"></i-icon>
             </div>
@@ -23,13 +23,13 @@
       return {
         goods: [
           {
-            title: 'JavaScript 从入门到放弃 手绘金装版 包邮不满意包退换 从入门到放弃',
+            title: 'JavaScript 从入门到放弃 手绘金装版 包邮不满意包退换',
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg'
+              'https://fuss10.elemecdn.com/a/3f/3302e58f9a181d2509f3dc0fa68b0jpeg.jpeg',
+              'https://fuss10.elemecdn.com/1/34/19aa98b1fcb2781c4fba33d850549jpeg.jpeg',
+              'https://fuss10.elemecdn.com/0/6f/e35ff375812e6b0020b6b4e8f9583jpeg.jpeg'
             ]
           },
           {
@@ -37,9 +37,9 @@
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg',
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg'
+              'https://fuss10.elemecdn.com/1/34/19aa98b1fcb2781c4fba33d850549jpeg.jpeg',
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/3/28/bbf893f792f03a54408b3b7a7ebf0jpeg.jpeg',
             ]
           },
           {
@@ -47,9 +47,9 @@
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg',
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg'
+              'https://fuss10.elemecdn.com/0/6f/e35ff375812e6b0020b6b4e8f9583jpeg.jpeg',
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/3/28/bbf893f792f03a54408b3b7a7ebf0jpeg.jpeg',
             ]
           },
           {
@@ -57,9 +57,9 @@
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg'
+              'https://fuss10.elemecdn.com/9/bb/e27858e973f5d7d3904835f46abbdjpeg.jpeg',
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/3/28/bbf893f792f03a54408b3b7a7ebf0jpeg.jpeg',
             ]
           },
           {
@@ -67,9 +67,9 @@
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg',
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg'
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/3/28/bbf893f792f03a54408b3b7a7ebf0jpeg.jpeg',
             ]
           },
           {
@@ -77,19 +77,9 @@
             price: 100,
             originPrice: 999,
             imgs: [
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg',
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg'
-            ]
-          },
-          {
-            title: 'JavaScript 从入门到放弃 手绘金装版 包邮不满意包退换',
-            price: 100,
-            originPrice: 999,
-            imgs: [
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg',
-              'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-              'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg'
+              'https://fuss10.elemecdn.com/9/bb/e27858e973f5d7d3904835f46abbdjpeg.jpeg',
+              'https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg',
+              'https://fuss10.elemecdn.com/3/28/bbf893f792f03a54408b3b7a7ebf0jpeg.jpeg',
             ]
           }
         ]

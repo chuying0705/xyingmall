@@ -31,9 +31,9 @@ export default {
   data () {
     return {
       imgUrls: [
-        'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
-        'http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg',
-        'http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg'
+        'https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg',
+        'https://cube.elemecdn.com/6/94/4d3ea53c084bad6931a56d5158a48jpeg.jpeg',
+        'https://res.wx.qq.com/wxdoc/dist/assets/img/0.4cb08bb4.jpg'
       ],
       recommends: ['a', 'b', 'c']
     }
